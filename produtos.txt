@@ -1,0 +1,5 @@
+Café;35;35
+Galão;35;35
+Capuccino;50;35
+Chá;40;35
+Chocolate-Quente;35;35
